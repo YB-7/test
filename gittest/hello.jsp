@@ -1,1 +1,2 @@
-Git 테스트 중..
+Git testing now..
+updated!!
